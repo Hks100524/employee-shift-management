@@ -4,6 +4,14 @@ An end-to-end **employee shift scheduling, attendance tracking, and leave manage
 
 ---
 
+## Live Demo
+
+- Frontend: https://employee-shift-management-snowy.vercel.app
+- Backend API: https://employee-shift-management-backend.onrender.com
+- Swagger Docs: https://employee-shift-management-backend.onrender.com/api-docs
+
+--
+
 ## Why this project?
 Most employee management systems become messy when teams scale: schedules overlap, attendance updates get duplicated, approvals become inconsistent, and reporting takes too long.
 
